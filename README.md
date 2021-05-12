@@ -2,5 +2,5 @@
 
 ### 欢迎看过来！ 👋
 
-- :orange_book:  Node.js && JAVA
+- :orange_book:  CODE
 - :hammer:  just Social animals
