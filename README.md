@@ -3,4 +3,4 @@
 ### 👋
 
 - :orange_book:  CODE
-- :hammer:  just Social animals
+- :hammer:  if the code works, it's good code.
